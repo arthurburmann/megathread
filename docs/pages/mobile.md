@@ -16,6 +16,8 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [Snapdrop Android](https://github.com/fm-sys/snapdrop-android) - Cliente Android para compartilhamento local de arquivos via [Snapdrop](https://snapdrop.net/) e [Pairdrop](https://pairdrop.net)
 
+- [LocalSend](https://localsend.org/#/) - Semelhante ao Snapdrop, mas com apps multiplataforma.
+
 - [Web Video Cast](https://play.google.com/store/apps/details?id=com.instantbits.cast.webvideo&hl=pt_BR&gl=US) - Web Video Caster permite transmitir conteúdo online e local na TV.
 
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid) - Tudo em um emulador no Android! Com uma interface simples e prática.
